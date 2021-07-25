@@ -23,6 +23,7 @@
   border: 2px solid rgb(11, 104, 11);
 }
 
+
 .container {
   position: absolute;
   top: 80%;
@@ -36,6 +37,7 @@
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;
 }
+
 .container h1 {
   text-align: center;
   margin: 0 0 40px;
